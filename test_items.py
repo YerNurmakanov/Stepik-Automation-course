@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
 
-def test_add_to_cart_exists(browser):
+def test_add_to_cart_button_exists(browser):
     browser.get(link)
     # time.sleep(30)
     elem_is_present = False
