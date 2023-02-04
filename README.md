@@ -1,2 +1,2 @@
 # Stepik-Automation-course
-Modul3_lesson6_step10
+Module3_lesson6_step10
